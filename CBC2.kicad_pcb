@@ -3846,7 +3846,7 @@
   )
 
   (module Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm (layer F.Cu) (tedit 5A74C8CB) (tstamp 5CA727F6)
-    (at 21.84375 232.21875)
+    (at 339.5625 18.9375)
     (descr "Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html")
     (tags "rotary encoder")
     (path /5CB60A4D)
@@ -4289,7 +4289,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72943)
-    (at 248.407951 312.578299)
+    (at 173.90625 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB11292)
@@ -4337,7 +4337,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72968)
-    (at 228.467951 292.638299)
+    (at 192.9375 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB123BB)
@@ -4385,7 +4385,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7298D)
-    (at 208.527951 272.698299)
+    (at 211.96875 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB3305C)
@@ -4433,7 +4433,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA729B2)
-    (at 188.587951 252.758299)
+    (at 231 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5CC25)
@@ -4481,7 +4481,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA729D7)
-    (at 288.287951 372.398299)
+    (at 250.03125 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5D0A8)
@@ -4529,7 +4529,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA729FC)
-    (at 268.347951 352.458299)
+    (at 269.0625 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5DEE1)
@@ -4577,7 +4577,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72A21)
-    (at 248.407951 332.518299)
+    (at 288.09375 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5E370)
@@ -4625,7 +4625,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72A46)
-    (at 228.467951 312.578299)
+    (at 307.125 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5EA3F)
@@ -4672,8 +4672,8 @@
       (net 21 "Net-(D0:15-Pad2)"))
   )
 
-  (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72A6B)
-    (at 208.527951 292.638299)
+  (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA93F33)
+    (at 326.15625 21.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CB5F334)
@@ -4721,7 +4721,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72A90)
-    (at 188.587951 272.698299)
+    (at 21.65625 40.6875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC129E)
@@ -4769,7 +4769,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72AB5)
-    (at 168.647951 252.758299)
+    (at 40.5 40.6875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12AA)
@@ -4817,7 +4817,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72ADA)
-    (at 301.627951 392.338299)
+    (at 59.71875 40.6875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12CE)
@@ -4865,7 +4865,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72AFF)
-    (at 268.347951 372.398299)
+    (at 78.75 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12B6)
@@ -4913,7 +4913,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72B24)
-    (at 248.407951 352.458299)
+    (at 97.78125 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12C2)
@@ -4961,7 +4961,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72B49)
-    (at 228.467951 332.518299)
+    (at 116.8125 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12DA)
@@ -5009,7 +5009,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72B6E)
-    (at 208.527951 312.578299)
+    (at 135.84375 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12E6)
@@ -5057,7 +5057,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72B93)
-    (at 188.587951 292.638299)
+    (at 154.875 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12F2)
@@ -5105,7 +5105,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72BB8)
-    (at 168.647951 272.698299)
+    (at 173.90625 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC12FE)
@@ -5153,7 +5153,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72BDD)
-    (at 148.707951 252.758299)
+    (at 192.9375 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC130A)
@@ -5201,7 +5201,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72C02)
-    (at 281.687951 392.338299)
+    (at 211.96875 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC1316)
@@ -5249,7 +5249,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72C27)
-    (at 248.407951 372.398299)
+    (at 231 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC1322)
@@ -5297,7 +5297,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72C4C)
-    (at 228.467951 352.458299)
+    (at 250.03125 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC132E)
@@ -5345,7 +5345,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72C71)
-    (at 208.527951 332.518299)
+    (at 269.0625 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC133A)
@@ -5393,7 +5393,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72C96)
-    (at 188.587951 312.578299)
+    (at 288.09375 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC1346)
@@ -5441,7 +5441,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72CBB)
-    (at 168.647951 292.638299)
+    (at 307.125 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC1352)
@@ -5489,7 +5489,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72CE0)
-    (at 148.707951 272.698299)
+    (at 326.15625 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC135E)
@@ -5537,7 +5537,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72D05)
-    (at 128.767951 252.758299)
+    (at 345.28125 40.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CD012A5)
@@ -5585,7 +5585,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72D2A)
-    (at 261.747951 392.338299)
+    (at 21.65625 60.28125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC50E8)
@@ -5633,7 +5633,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72D4F)
-    (at 228.467951 372.398299)
+    (at 40.78125 60.28125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC50F4)
@@ -5681,7 +5681,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72D74)
-    (at 208.527951 352.458299)
+    (at 60.09375 60.28125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5118)
@@ -5729,7 +5729,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72D99)
-    (at 188.587951 332.518299)
+    (at 79.21875 60)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5100)
@@ -5777,7 +5777,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72DBE)
-    (at 168.647951 312.578299)
+    (at 98.0625 59.71875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC510C)
@@ -5825,7 +5825,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72DE3)
-    (at 148.707951 292.638299)
+    (at 117.375 59.71875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5124)
@@ -5873,7 +5873,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72E08)
-    (at 128.767951 272.698299)
+    (at 136.21875 59.71875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5130)
@@ -5921,7 +5921,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72E2D)
-    (at 108.827951 252.758299)
+    (at 155.0625 59.71875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC513C)
@@ -5969,7 +5969,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72E52)
-    (at 241.807951 392.338299)
+    (at 174.28125 59.8125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5148)
@@ -6017,7 +6017,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72E77)
-    (at 208.527951 372.398299)
+    (at 192.84375 59.8125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5154)
@@ -6065,7 +6065,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72E9C)
-    (at 188.587951 352.458299)
+    (at 211.875 59.53125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5160)
@@ -6113,7 +6113,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72EC1)
-    (at 168.647951 332.518299)
+    (at 230.90625 59.53125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC516C)
@@ -6161,7 +6161,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72EE6)
-    (at 148.707951 312.578299)
+    (at 250.21875 59.25)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5178)
@@ -6209,7 +6209,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72F0B)
-    (at 128.767951 292.638299)
+    (at 269.25 59.25)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5184)
@@ -6257,7 +6257,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72F30)
-    (at 108.827951 272.698299)
+    (at 288.09375 59.53125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC5190)
@@ -6305,7 +6305,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72F55)
-    (at 88.887951 252.758299)
+    (at 307.125 59.53125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC519C)
@@ -6353,7 +6353,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72F7A)
-    (at 221.867951 392.338299)
+    (at 326.15625 59.25)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBC51A8)
@@ -6401,7 +6401,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72F9F)
-    (at 188.587951 372.398299)
+    (at 345.375 59.53125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CD012B2)
@@ -6449,7 +6449,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72FC4)
-    (at 168.647951 352.458299)
+    (at 21.28125 79.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE260)
@@ -6497,7 +6497,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA72FE9)
-    (at 148.707951 332.518299)
+    (at 40.875 79.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE26C)
@@ -6545,7 +6545,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7300E)
-    (at 128.767951 312.578299)
+    (at 60.1875 79.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE290)
@@ -6593,7 +6593,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73033)
-    (at 108.827951 292.638299)
+    (at 79.21875 79.3125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE278)
@@ -6641,7 +6641,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73058)
-    (at 88.887951 272.698299)
+    (at 98.25 79.03125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE284)
@@ -6689,7 +6689,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7307D)
-    (at 68.947951 252.758299)
+    (at 117.5625 79.03125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE29C)
@@ -6737,7 +6737,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA730A2)
-    (at 201.927951 392.338299)
+    (at 136.3125 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2A8)
@@ -6785,7 +6785,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA730C7)
-    (at 168.647951 372.398299)
+    (at 155.15625 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2B4)
@@ -6833,7 +6833,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA730EC)
-    (at 148.707951 352.458299)
+    (at 174.1875 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2C0)
@@ -6881,7 +6881,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73111)
-    (at 128.767951 332.518299)
+    (at 193.21875 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2CC)
@@ -6929,7 +6929,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73136)
-    (at 108.827951 312.578299)
+    (at 212.25 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2D8)
@@ -6977,7 +6977,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7315B)
-    (at 88.887951 292.638299)
+    (at 230.8125 78.84375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2E4)
@@ -7025,7 +7025,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73180)
-    (at 49.007951 253.768299)
+    (at 249.84375 78.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE2F0)
@@ -7073,7 +7073,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA731A5)
-    (at 68.947951 272.698299)
+    (at 288.1875 78.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE308)
@@ -7121,7 +7121,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA731CA)
-    (at 181.987951 392.338299)
+    (at 307.5 78.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE314)
@@ -7169,7 +7169,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA731EF)
-    (at 148.707951 372.398299)
+    (at 326.53125 78.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBCE320)
@@ -7217,7 +7217,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73214)
-    (at 128.767951 352.458299)
+    (at 345.84375 78.5625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CD012BF)
@@ -7265,7 +7265,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73239)
-    (at 108.827951 332.518299)
+    (at 21.28125 98.90625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD73DF)
@@ -7313,7 +7313,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7325E)
-    (at 88.887951 312.578299)
+    (at 40.875 98.625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD73EB)
@@ -7361,7 +7361,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73283)
-    (at 29.067951 253.768299)
+    (at 60.375 98.625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD740F)
@@ -7409,7 +7409,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA732A8)
-    (at 49.007951 273.708299)
+    (at 79.21875 98.34375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD73F7)
@@ -7457,7 +7457,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA732CD)
-    (at 68.947951 292.638299)
+    (at 97.96875 98.15625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7403)
@@ -7505,7 +7505,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA732F2)
-    (at 162.047951 392.338299)
+    (at 117 98.15625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD741B)
@@ -7553,7 +7553,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73317)
-    (at 128.767951 372.398299)
+    (at 136.3125 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7427)
@@ -7601,7 +7601,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7333C)
-    (at 108.827951 352.458299)
+    (at 155.625 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7433)
@@ -7649,7 +7649,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73361)
-    (at 88.887951 332.518299)
+    (at 174.46875 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD743F)
@@ -7697,7 +7697,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73386)
-    (at 29.067951 273.708299)
+    (at 193.6875 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD744B)
@@ -7745,7 +7745,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA733AB)
-    (at 49.007951 293.648299)
+    (at 212.8125 98.15625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7457)
@@ -7793,7 +7793,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA733D0)
-    (at 68.947951 312.578299)
+    (at 231.09375 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7463)
@@ -7841,7 +7841,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA733F5)
-    (at 142.107951 392.338299)
+    (at 269.15625 98.15625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD747B)
@@ -7889,7 +7889,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7341A)
-    (at 108.827951 372.398299)
+    (at 288.46875 97.875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7487)
@@ -7937,7 +7937,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7343F)
-    (at 88.887951 352.458299)
+    (at 307.5 97.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD7493)
@@ -7985,7 +7985,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73464)
-    (at 29.067951 293.648299)
+    (at 326.53125 97.59375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBD749F)
@@ -8033,7 +8033,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73489)
-    (at 49.007951 313.588299)
+    (at 345.75 97.40625)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CD012CC)
@@ -8081,7 +8081,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA734AE)
-    (at 68.947951 332.518299)
+    (at 21.1875 118.21875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF39B)
@@ -8129,7 +8129,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA734D3)
-    (at 122.167951 392.338299)
+    (at 40.6875 118.21875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF3A7)
@@ -8177,7 +8177,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA734F8)
-    (at 88.887951 372.398299)
+    (at 60.5625 117.9375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF3CB)
@@ -8225,7 +8225,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7351D)
-    (at 29.067951 313.588299)
+    (at 117.099201 117.275799)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF3D7)
@@ -8273,7 +8273,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73542)
-    (at 49.007951 333.528299)
+    (at 193.78125 117.28125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF407)
@@ -8321,7 +8321,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73567)
-    (at 68.947951 352.458299)
+    (at 213.09375 117.28125)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF413)
@@ -8369,7 +8369,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA7358C)
-    (at 102.227951 392.338299)
+    (at 250.40625 117.46875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF42B)
@@ -8417,7 +8417,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA735B1)
-    (at 29.067951 333.528299)
+    (at 269.4375 117.46875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF437)
@@ -8465,7 +8465,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA735D6)
-    (at 49.007951 353.468299)
+    (at 288.5625 117.09375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF443)
@@ -8513,7 +8513,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA735FB)
-    (at 68.947951 372.398299)
+    (at 307.78125 117.09375)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF44F)
@@ -8561,7 +8561,7 @@
   )
 
   (module keebs:Mx_Alps_100 (layer B.Cu) (tedit 58057B75) (tstamp 5CA73620)
-    (at 29.067951 353.468299)
+    (at 326.625 116.71875)
     (descr MXALPS)
     (tags MXALPS)
     (path /5CBDF45B)
