@@ -2894,64 +2894,53 @@ Connection ~ 19850 2950
 Text Label 19850 2700 1    50   ~ 0
 col17
 $Comp
-L Device:C C_REF1
-U 1 1 5D069204
-P 4200 4300
-F 0 "C_REF1" V 4150 4450 35  0000 C CNN
-F 1 "0.1u" V 4250 4450 35  0000 C CNN
-F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 4238 4150 35  0001 C CNN
-F 3 "~" H 4200 4300 35  0001 C CNN
-	1    4200 4300
-	0    1    1    0   
-$EndComp
-$Comp
 L CBC2-rescue:GND-keyboard_parts #PWR0104
 U 1 1 5D09CE0D
-P 4350 4300
-F 0 "#PWR0104" H 4350 4350 20  0001 C CNN
-F 1 "GND" V 4350 4100 30  0000 L CNN
-F 2 "" H 4350 4300 60  0000 C CNN
-F 3 "" H 4350 4300 60  0000 C CNN
-	1    4350 4300
+P 4250 4800
+F 0 "#PWR0104" H 4250 4850 20  0001 C CNN
+F 1 "GND" V 4250 4600 30  0000 L CNN
+F 2 "" H 4250 4800 60  0000 C CNN
+F 3 "" H 4250 4800 60  0000 C CNN
+	1    4250 4800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L CBC2-rescue:GND-keyboard_parts #PWR0105
 U 1 1 5D0A1009
-P 2550 3200
-F 0 "#PWR0105" H 2550 3250 20  0001 C CNN
-F 1 "GND" V 2550 3000 30  0000 L CNN
-F 2 "" H 2550 3200 60  0000 C CNN
-F 3 "" H 2550 3200 60  0000 C CNN
-	1    2550 3200
+P 2450 2800
+F 0 "#PWR0105" H 2450 2850 20  0001 C CNN
+F 1 "GND" V 2450 2600 30  0000 L CNN
+F 2 "" H 2450 2800 60  0000 C CNN
+F 3 "" H 2450 2800 60  0000 C CNN
+	1    2450 2800
 	0    1    1    0   
 $EndComp
 $Comp
 L CBC2-rescue:GND-keyboard_parts #PWR0106
 U 1 1 5D0A271E
-P 3950 5950
-F 0 "#PWR0106" H 3950 6000 20  0001 C CNN
-F 1 "GND" V 3950 5750 30  0000 L CNN
-F 2 "" H 3950 5950 60  0000 C CNN
-F 3 "" H 3950 5950 60  0000 C CNN
-	1    3950 5950
-	0    -1   -1   0   
+P 2450 4900
+F 0 "#PWR0106" H 2450 4950 20  0001 C CNN
+F 1 "GND" V 2450 4700 30  0000 L CNN
+F 2 "" H 2450 4900 60  0000 C CNN
+F 3 "" H 2450 4900 60  0000 C CNN
+	1    2450 4900
+	0    1    1    0   
 $EndComp
 $Comp
 L CBC2-rescue:GND-keyboard_parts #PWR0107
 U 1 1 5D0A3A4B
-P 4050 4150
-F 0 "#PWR0107" H 4050 4200 20  0001 C CNN
-F 1 "GND" V 4050 3950 30  0000 L CNN
-F 2 "" H 4050 4150 60  0000 C CNN
-F 3 "" H 4050 4150 60  0000 C CNN
-	1    4050 4150
+P 3950 4650
+F 0 "#PWR0107" H 3950 4700 20  0001 C CNN
+F 1 "GND" V 3950 4450 30  0000 L CNN
+F 2 "" H 3950 4650 60  0000 C CNN
+F 3 "" H 3950 4650 60  0000 C CNN
+	1    3950 4650
 	0    -1   -1   0   
 $EndComp
 Wire Wire Line
-	4050 4150 4050 4200
+	3950 4650 3950 4700
 Wire Wire Line
-	4050 4200 3950 4200
+	3950 4700 3850 4700
 $Comp
 L Device:C C1
 U 1 1 5CA6D834
@@ -3005,162 +2994,141 @@ Connection ~ 3000 7150
 $Comp
 L power:VCC #PWR0110
 U 1 1 5CB14187
-P 4450 5600
-F 0 "#PWR0110" H 4450 5450 50  0001 C CNN
-F 1 "VCC" V 4467 5728 50  0000 L CNN
-F 2 "" H 4450 5600 50  0001 C CNN
-F 3 "" H 4450 5600 50  0001 C CNN
-	1    4450 5600
-	0    1    1    0   
+P 1900 5250
+F 0 "#PWR0110" H 1900 5100 50  0001 C CNN
+F 1 "VCC" V 1917 5378 50  0000 L CNN
+F 2 "" H 1900 5250 50  0001 C CNN
+F 3 "" H 1900 5250 50  0001 C CNN
+	1    1900 5250
+	0    -1   -1   0   
 $EndComp
 $Comp
 L Device:R R1
 U 1 1 5CAFC5A3
-P 4300 5600
-F 0 "R1" V 4200 5600 50  0000 C CNN
-F 1 "10k" V 4300 5600 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 4230 5600 50  0001 C CNN
-F 3 "~" H 4300 5600 50  0001 C CNN
-	1    4300 5600
-	0    1    1    0   
+P 2050 5250
+F 0 "R1" V 1950 5250 50  0000 C CNN
+F 1 "10k" V 2050 5250 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 1980 5250 50  0001 C CNN
+F 3 "~" H 2050 5250 50  0001 C CNN
+	1    2050 5250
+	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR0111
 U 1 1 5CAFB420
-P 4550 5850
-F 0 "#PWR0111" H 4550 5600 50  0001 C CNN
-F 1 "GND" V 4555 5722 50  0000 R CNN
-F 2 "" H 4550 5850 50  0001 C CNN
-F 3 "" H 4550 5850 50  0001 C CNN
-	1    4550 5850
-	0    -1   -1   0   
+P 1800 5000
+F 0 "#PWR0111" H 1800 4750 50  0001 C CNN
+F 1 "GND" V 1805 4872 50  0000 R CNN
+F 2 "" H 1800 5000 50  0001 C CNN
+F 3 "" H 1800 5000 50  0001 C CNN
+	1    1800 5000
+	0    1    1    0   
 $EndComp
-Connection ~ 4150 5850
+Connection ~ 2200 5000
 Wire Wire Line
-	3950 5850 4150 5850
+	2450 5000 2200 5000
 $Comp
 L Switch:SW_Push SW1
 U 1 1 5CAEB673
-P 4350 5850
-F 0 "SW1" H 4350 6000 50  0000 C CNN
-F 1 "SW_Push" H 4350 5800 50  0000 C CNN
-F 2 "Button_Switch_THT:Push_E-Switch_KS01Q01" H 4350 6050 50  0001 C CNN
-F 3 "~" H 4350 6050 50  0001 C CNN
-	1    4350 5850
-	1    0    0    -1  
+P 2000 5000
+F 0 "SW1" H 2000 5150 50  0000 C CNN
+F 1 "SW_Push" H 2000 4950 50  0000 C CNN
+F 2 "Button_Switch_THT:Push_E-Switch_KS01Q01" H 2000 5200 50  0001 C CNN
+F 3 "~" H 2000 5200 50  0001 C CNN
+	1    2000 5000
+	-1   0    0    1   
 $EndComp
 Wire Wire Line
-	4150 5600 4150 5850
+	2200 5250 2200 5000
 $Comp
 L Device:R R2
 U 1 1 5CB7DAC5
-P 4100 5350
-F 0 "R2" V 4000 5350 50  0000 C CNN
-F 1 "1k" V 4100 5350 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 4030 5350 50  0001 C CNN
-F 3 "~" H 4100 5350 50  0001 C CNN
-	1    4100 5350
+P 4000 2800
+F 0 "R2" V 3900 2800 50  0000 C CNN
+F 1 "1k" V 4000 2800 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal" V 3930 2800 50  0001 C CNN
+F 3 "~" H 4000 2800 50  0001 C CNN
+	1    4000 2800
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0112
 U 1 1 5CB7F8A6
-P 4250 5350
-F 0 "#PWR0112" H 4250 5100 50  0001 C CNN
-F 1 "GND" V 4255 5222 50  0000 R CNN
-F 2 "" H 4250 5350 50  0001 C CNN
-F 3 "" H 4250 5350 50  0001 C CNN
-	1    4250 5350
+P 4150 2800
+F 0 "#PWR0112" H 4150 2550 50  0001 C CNN
+F 1 "GND" V 4155 2672 50  0000 R CNN
+F 2 "" H 4150 2800 50  0001 C CNN
+F 3 "" H 4150 2800 50  0001 C CNN
+	1    4150 2800
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:VCC #PWR0113
 U 1 1 5CB8AC1E
-P 3950 3200
-F 0 "#PWR0113" H 3950 3050 50  0001 C CNN
-F 1 "VCC" V 3967 3328 50  0000 L CNN
-F 2 "" H 3950 3200 50  0001 C CNN
-F 3 "" H 3950 3200 50  0001 C CNN
-	1    3950 3200
+P 3850 3700
+F 0 "#PWR0113" H 3850 3550 50  0001 C CNN
+F 1 "VCC" V 3867 3828 50  0000 L CNN
+F 2 "" H 3850 3700 50  0001 C CNN
+F 3 "" H 3850 3700 50  0001 C CNN
+	1    3850 3700
 	0    1    1    0   
 $EndComp
 $Comp
 L power:VCC #PWR0114
 U 1 1 5CB8C804
-P 3950 6050
-F 0 "#PWR0114" H 3950 5900 50  0001 C CNN
-F 1 "VCC" V 3967 6178 50  0000 L CNN
-F 2 "" H 3950 6050 50  0001 C CNN
-F 3 "" H 3950 6050 50  0001 C CNN
-	1    3950 6050
-	0    1    1    0   
+P 2450 4800
+F 0 "#PWR0114" H 2450 4650 50  0001 C CNN
+F 1 "VCC" V 2467 4928 50  0000 L CNN
+F 2 "" H 2450 4800 50  0001 C CNN
+F 3 "" H 2450 4800 50  0001 C CNN
+	1    2450 4800
+	0    -1   -1   0   
 $EndComp
-Text Label 2550 4800 2    50   ~ 0
+Text Label 2450 4400 2    50   ~ 0
 led1
-Text Label 2550 4900 2    50   ~ 0
+Text Label 2450 4500 2    50   ~ 0
 led2
-Text Label 2550 5000 2    50   ~ 0
+Text Label 2450 4600 2    50   ~ 0
 led3
-$Comp
-L CBC2-rescue:Teensy2.0++-keyboard_parts U1
-U 1 1 5CAC2D34
-P 3250 4600
-F 0 "U1" H 3250 4800 60  0000 C CNN
-F 1 "Teensy2.0++" H 3250 4400 39  0000 C CNN
-F 2 "teensy:Teensy2.0++" H 3250 4650 60  0001 C CNN
-F 3 "" H 3250 4650 60  0000 C CNN
-	1    3250 4600
-	1    0    0    -1  
-$EndComp
-Text Label 2550 3400 2    50   ~ 0
+Text Label 2450 3000 2    50   ~ 0
 row0
-Text Label 2550 3500 2    50   ~ 0
+Text Label 2450 3100 2    50   ~ 0
 row1
-Text Label 2550 3600 2    50   ~ 0
+Text Label 2450 3200 2    50   ~ 0
 row2
-Text Label 2550 3700 2    50   ~ 0
+Text Label 2450 3300 2    50   ~ 0
 row3
-Text Label 2550 3800 2    50   ~ 0
+Text Label 2450 3400 2    50   ~ 0
 row4
-Text Label 2550 3900 2    50   ~ 0
+Text Label 2450 3500 2    50   ~ 0
 row5
-Text Label 3950 3900 0    50   ~ 0
+Text Label 3850 4400 0    50   ~ 0
 col0
-Text Label 3950 3800 0    50   ~ 0
+Text Label 3850 4300 0    50   ~ 0
 col1
-Text Label 3950 3700 0    50   ~ 0
+Text Label 3850 4200 0    50   ~ 0
 col2
-Text Label 3950 3600 0    50   ~ 0
+Text Label 3850 4100 0    50   ~ 0
 col3
-Text Label 3950 3500 0    50   ~ 0
+Text Label 3850 4000 0    50   ~ 0
 col4
-Text Label 3950 3400 0    50   ~ 0
+Text Label 3850 3900 0    50   ~ 0
 col5
-Text Label 3950 3300 0    50   ~ 0
+Text Label 3850 3800 0    50   ~ 0
 col6
-Text Label 2550 3300 2    50   ~ 0
+Text Label 2450 2900 2    50   ~ 0
 col7
-Text Label 3950 4400 0    50   ~ 0
-col8
 Wire Wire Line
-	3950 4300 4050 4300
-Text Label 3950 4500 0    50   ~ 0
-col9
-Text Label 3950 4600 0    50   ~ 0
-col10
-Text Label 3950 4700 0    50   ~ 0
-col11
-Text Label 3950 4800 0    50   ~ 0
-col12
-Text Label 3950 4900 0    50   ~ 0
+	3850 4800 3950 4800
+Text Label 2450 5300 2    50   ~ 0
 col13
-Text Label 3950 5000 0    50   ~ 0
+Text Label 2450 5200 2    50   ~ 0
 col14
-Text Label 3950 5100 0    50   ~ 0
+Text Label 2450 5100 2    50   ~ 0
 col15
-Text Label 2550 4200 2    50   ~ 0
+Text Label 2450 3800 2    50   ~ 0
 col16
-Text Label 2550 4300 2    50   ~ 0
+Text Label 2450 3900 2    50   ~ 0
 col17
 $Comp
 L Device:R LED_R1
@@ -3267,23 +3235,53 @@ F 3 "" H 5700 7250 50  0001 C CNN
 	1    5700 7250
 	0    -1   -1   0   
 $EndComp
-NoConn ~ 3950 4000
-NoConn ~ 3950 4100
-NoConn ~ 2550 4000
-NoConn ~ 2550 4100
-NoConn ~ 2550 4400
-NoConn ~ 2550 4500
-NoConn ~ 2550 4600
-NoConn ~ 2550 4700
-NoConn ~ 2550 5100
-NoConn ~ 2550 5350
-NoConn ~ 2550 5450
-NoConn ~ 2550 5550
-NoConn ~ 2550 5650
-NoConn ~ 2550 5750
-NoConn ~ 2550 5850
-NoConn ~ 2550 5950
-NoConn ~ 2550 6050
-NoConn ~ 3950 5650
-NoConn ~ 3950 5550
+$Comp
+L teensy:Teensy++2.0 U1
+U 1 1 5CB69812
+P 3150 3950
+F 0 "U1" H 3150 5387 60  0000 C CNN
+F 1 "Teensy++2.0" H 3150 5281 60  0000 C CNN
+F 2 "teensy:Teensy2.0++" H 3250 3100 60  0001 C CNN
+F 3 "" H 3250 3100 60  0000 C CNN
+	1    3150 3950
+	1    0    0    -1  
+$EndComp
+Text Label 3850 5300 0    50   ~ 0
+col12
+Text Label 3850 5200 0    50   ~ 0
+col11
+Text Label 3850 5100 0    50   ~ 0
+col10
+Text Label 3850 5000 0    50   ~ 0
+col9
+Text Label 3850 4900 0    50   ~ 0
+col8
+$Comp
+L Device:C C_REF1
+U 1 1 5D069204
+P 4100 4800
+F 0 "C_REF1" V 4050 4950 35  0000 C CNN
+F 1 "0.1u" V 4150 4950 35  0000 C CNN
+F 2 "Capacitor_THT:C_Axial_L3.8mm_D2.6mm_P7.50mm_Horizontal" H 4138 4650 35  0001 C CNN
+F 3 "~" H 4100 4800 35  0001 C CNN
+	1    4100 4800
+	0    1    1    0   
+$EndComp
+NoConn ~ 2450 3600
+NoConn ~ 2450 3700
+NoConn ~ 2450 4000
+NoConn ~ 2450 4100
+NoConn ~ 2450 4200
+NoConn ~ 2450 4300
+NoConn ~ 2450 4700
+NoConn ~ 3850 4600
+NoConn ~ 3850 4500
+NoConn ~ 3850 3600
+NoConn ~ 3850 3500
+NoConn ~ 3850 3400
+NoConn ~ 3850 3300
+NoConn ~ 3850 3200
+NoConn ~ 3850 3100
+NoConn ~ 3850 3000
+NoConn ~ 3850 2900
 $EndSCHEMATC
