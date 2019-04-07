@@ -15,386 +15,386 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:0
+L keyboard_parts:KEYSW K0:0
 U 1 1 5CAE6C85
 P 6800 2950
 F 0 "K0:0" H 6800 2950 60  0000 C CNN
 F 1 "KEYSW" H 6800 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 6800 2950 60  0001 C CNN
 F 3 "" H 6800 2950 60  0000 C CNN
 	1    6800 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:0
+L keyboard_parts:D D0:0
 U 1 1 5CAE8AE4
 P 6500 3100
 F 0 "D0:0" H 6372 3050 60  0000 R CNN
 F 1 "D" V 6650 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 3100 60  0001 C CNN
 F 3 "" H 6500 3100 60  0000 C CNN
 	1    6500 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:1
 U 1 1 5CAEF41E
 P 7550 2950
 F 0 "K0:1" H 7550 2950 60  0000 C CNN
 F 1 "KEYSW" H 7550 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 2950 60  0001 C CNN
 F 3 "" H 7550 2950 60  0000 C CNN
 	1    7550 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:1
 U 1 1 5CAEF428
 P 7250 3100
 F 0 "D0:1" H 7122 3050 60  0000 R CNN
 F 1 "D" V 7400 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 3100 60  0001 C CNN
 F 3 "" H 7250 3100 60  0000 C CNN
 	1    7250 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:3
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:3
 U 1 1 5CAF2E32
 P 9050 2950
 F 0 "K0:3" H 9050 2950 60  0000 C CNN
 F 1 "KEYSW" H 9050 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9050 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9050 2950 60  0001 C CNN
 F 3 "" H 9050 2950 60  0000 C CNN
 	1    9050 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:3
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:3
 U 1 1 5CAF2E3C
 P 8750 3100
 F 0 "D0:3" H 8622 3050 60  0000 R CNN
 F 1 "D" V 8900 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8750 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8750 3100 60  0001 C CNN
 F 3 "" H 8750 3100 60  0000 C CNN
 	1    8750 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:4
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:4
 U 1 1 5CAF608A
 P 9800 2950
 F 0 "K0:4" H 9800 2950 60  0000 C CNN
 F 1 "KEYSW" H 9800 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9800 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9800 2950 60  0001 C CNN
 F 3 "" H 9800 2950 60  0000 C CNN
 	1    9800 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:4
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:4
 U 1 1 5CAF6090
 P 9500 3100
 F 0 "D0:4" H 9372 3050 60  0000 R CNN
 F 1 "D" V 9650 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9500 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 9500 3100 60  0001 C CNN
 F 3 "" H 9500 3100 60  0000 C CNN
 	1    9500 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:2
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:2
 U 1 1 5CAF622A
 P 8300 2950
 F 0 "K0:2" H 8300 2950 60  0000 C CNN
 F 1 "KEYSW" H 8300 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 8300 2950 60  0001 C CNN
 F 3 "" H 8300 2950 60  0000 C CNN
 	1    8300 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:2
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:2
 U 1 1 5CAF6230
 P 8000 3100
 F 0 "D0:2" H 7872 3050 60  0000 R CNN
 F 1 "D" V 8150 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8000 3100 60  0001 C CNN
 F 3 "" H 8000 3100 60  0000 C CNN
 	1    8000 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:5
 U 1 1 5CB0FD69
 P 10550 2950
 F 0 "K0:5" H 10550 2950 60  0000 C CNN
 F 1 "KEYSW" H 10550 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 10550 2950 60  0001 C CNN
 F 3 "" H 10550 2950 60  0000 C CNN
 	1    10550 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:5
 U 1 1 5CB0FD6F
 P 10250 3100
 F 0 "D0:5" H 10122 3050 60  0000 R CNN
 F 1 "D" V 10400 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 3100 60  0001 C CNN
 F 3 "" H 10250 3100 60  0000 C CNN
 	1    10250 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:6
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:6
 U 1 1 5CB10304
 P 11300 2950
 F 0 "K0:6" H 11300 2950 60  0000 C CNN
 F 1 "KEYSW" H 11300 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 11300 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 11300 2950 60  0001 C CNN
 F 3 "" H 11300 2950 60  0000 C CNN
 	1    11300 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:6
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:6
 U 1 1 5CB1030A
 P 11000 3100
 F 0 "D0:6" H 10872 3050 60  0000 R CNN
 F 1 "D" V 11150 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11000 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11000 3100 60  0001 C CNN
 F 3 "" H 11000 3100 60  0000 C CNN
 	1    11000 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:7
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:7
 U 1 1 5CB10CDD
 P 12050 2950
 F 0 "K0:7" H 12050 2950 60  0000 C CNN
 F 1 "KEYSW" H 12050 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12050 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12050 2950 60  0001 C CNN
 F 3 "" H 12050 2950 60  0000 C CNN
 	1    12050 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:7
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:7
 U 1 1 5CB10CE3
 P 11750 3100
 F 0 "D0:7" H 11622 3050 60  0000 R CNN
 F 1 "D" V 11900 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11750 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11750 3100 60  0001 C CNN
 F 3 "" H 11750 3100 60  0000 C CNN
 	1    11750 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:8
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:8
 U 1 1 5CB11292
 P 12800 2950
 F 0 "K0:8" H 12800 2950 60  0000 C CNN
 F 1 "KEYSW" H 12800 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12800 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12800 2950 60  0001 C CNN
 F 3 "" H 12800 2950 60  0000 C CNN
 	1    12800 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:8
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:8
 U 1 1 5CB11298
 P 12500 3100
 F 0 "D0:8" H 12372 3050 60  0000 R CNN
 F 1 "D" V 12650 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 12500 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 12500 3100 60  0001 C CNN
 F 3 "" H 12500 3100 60  0000 C CNN
 	1    12500 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:9
 U 1 1 5CB123BB
 P 13550 2950
 F 0 "K0:9" H 13550 2950 60  0000 C CNN
 F 1 "KEYSW" H 13550 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 2950 60  0001 C CNN
 F 3 "" H 13550 2950 60  0000 C CNN
 	1    13550 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:9
 U 1 1 5CB123C1
 P 13250 3100
 F 0 "D0:9" H 13122 3050 60  0000 R CNN
 F 1 "D" V 13400 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 3100 60  0001 C CNN
 F 3 "" H 13250 3100 60  0000 C CNN
 	1    13250 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:10
 U 1 1 5CB3305C
 P 14300 2950
 F 0 "K0:10" H 14300 2950 60  0000 C CNN
 F 1 "KEYSW" H 14300 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 2950 60  0001 C CNN
 F 3 "" H 14300 2950 60  0000 C CNN
 	1    14300 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:10
 U 1 1 5CB33062
 P 14000 3100
 F 0 "D0:10" H 13872 3050 60  0000 R CNN
 F 1 "D" V 14150 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 3100 60  0001 C CNN
 F 3 "" H 14000 3100 60  0000 C CNN
 	1    14000 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:11
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:11
 U 1 1 5CB5CC25
 P 15050 2950
 F 0 "K0:11" H 15050 2950 60  0000 C CNN
 F 1 "KEYSW" H 15050 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15050 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15050 2950 60  0001 C CNN
 F 3 "" H 15050 2950 60  0000 C CNN
 	1    15050 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:11
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:11
 U 1 1 5CB5CC2B
 P 14750 3100
 F 0 "D0:11" H 14622 3050 60  0000 R CNN
 F 1 "D" V 14900 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14750 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14750 3100 60  0001 C CNN
 F 3 "" H 14750 3100 60  0000 C CNN
 	1    14750 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:12
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:12
 U 1 1 5CB5D0A8
 P 15800 2950
 F 0 "K0:12" H 15800 2950 60  0000 C CNN
 F 1 "KEYSW" H 15800 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15800 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15800 2950 60  0001 C CNN
 F 3 "" H 15800 2950 60  0000 C CNN
 	1    15800 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:12
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:12
 U 1 1 5CB5D0AE
 P 15500 3100
 F 0 "D0:12" H 15372 3050 60  0000 R CNN
 F 1 "D" V 15650 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 15500 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 15500 3100 60  0001 C CNN
 F 3 "" H 15500 3100 60  0000 C CNN
 	1    15500 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:13
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:13
 U 1 1 5CB5DEE1
 P 16550 2950
 F 0 "K0:13" H 16550 2950 60  0000 C CNN
 F 1 "KEYSW" H 16550 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 16550 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 16550 2950 60  0001 C CNN
 F 3 "" H 16550 2950 60  0000 C CNN
 	1    16550 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:13
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:13
 U 1 1 5CB5DEE7
 P 16250 3100
 F 0 "D0:13" H 16122 3050 60  0000 R CNN
 F 1 "D" V 16400 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 16250 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 16250 3100 60  0001 C CNN
 F 3 "" H 16250 3100 60  0000 C CNN
 	1    16250 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:14
 U 1 1 5CB5E370
 P 17300 2950
 F 0 "K0:14" H 17300 2950 60  0000 C CNN
 F 1 "KEYSW" H 17300 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 2950 60  0001 C CNN
 F 3 "" H 17300 2950 60  0000 C CNN
 	1    17300 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:14
 U 1 1 5CB5E376
 P 17000 3100
 F 0 "D0:14" H 16872 3050 60  0000 R CNN
 F 1 "D" V 17150 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 3100 60  0001 C CNN
 F 3 "" H 17000 3100 60  0000 C CNN
 	1    17000 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:15
 U 1 1 5CB5EA3F
 P 18050 2950
 F 0 "K0:15" H 18050 2950 60  0000 C CNN
 F 1 "KEYSW" H 18050 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 2950 60  0001 C CNN
 F 3 "" H 18050 2950 60  0000 C CNN
 	1    18050 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:15
 U 1 1 5CB5EA45
 P 17750 3100
 F 0 "D0:15" H 17622 3050 60  0000 R CNN
 F 1 "D" V 17900 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 3100 60  0001 C CNN
 F 3 "" H 17750 3100 60  0000 C CNN
 	1    17750 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K0:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K0:16
 U 1 1 5CB5F334
 P 18800 2950
 F 0 "K0:16" H 18800 2950 60  0000 C CNN
 F 1 "KEYSW" H 18800 2850 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 2950 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 2950 60  0001 C CNN
 F 3 "" H 18800 2950 60  0000 C CNN
 	1    18800 2950
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:16
 U 1 1 5CB5F33A
 P 18500 3100
 F 0 "D0:16" H 18372 3050 60  0000 R CNN
 F 1 "D" V 18650 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 3100 60  0001 C CNN
 F 3 "" H 18500 3100 60  0000 C CNN
 	1    18500 3100
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D0:17
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D0:17
 U 1 1 5CB6059D
 P 19250 3100
 F 0 "D0:17" H 19122 3050 60  0000 R CNN
 F 1 "D" V 19400 3050 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 19250 3100 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 19250 3100 60  0001 C CNN
 F 3 "" H 19250 3100 60  0000 C CNN
 	1    19250 3100
 	-1   0    0    1   
@@ -455,7 +455,7 @@ F 3 "~" H 19600 1650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0101
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0101
 U 1 1 5CB6F7E9
 P 19750 1650
 F 0 "#PWR0101" H 19750 1700 20  0001 C CNN
@@ -466,7 +466,7 @@ F 3 "" H 19750 1650 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0102
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0102
 U 1 1 5CB6FBB8
 P 18950 1650
 F 0 "#PWR0102" H 18950 1700 20  0001 C CNN
@@ -477,7 +477,7 @@ F 3 "" H 18950 1650 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0103
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0103
 U 1 1 5CB7113D
 P 19350 2050
 F 0 "#PWR0103" H 19350 2100 20  0001 C CNN
@@ -538,375 +538,375 @@ Wire Wire Line
 Wire Wire Line
 	8000 3150 8750 3150
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:0
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:0
 U 1 1 5CBC129E
 P 6800 3350
 F 0 "K1:0" H 6800 3350 60  0000 C CNN
 F 1 "KEYSW" H 6800 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 6800 3350 60  0001 C CNN
 F 3 "" H 6800 3350 60  0000 C CNN
 	1    6800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:0
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:0
 U 1 1 5CBC12A4
 P 6500 3500
 F 0 "D1:0" H 6372 3450 60  0000 R CNN
 F 1 "D" V 6650 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 3500 60  0001 C CNN
 F 3 "" H 6500 3500 60  0000 C CNN
 	1    6500 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:1
 U 1 1 5CBC12AA
 P 7550 3350
 F 0 "K1:1" H 7550 3350 60  0000 C CNN
 F 1 "KEYSW" H 7550 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 3350 60  0001 C CNN
 F 3 "" H 7550 3350 60  0000 C CNN
 	1    7550 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:1
 U 1 1 5CBC12B0
 P 7250 3500
 F 0 "D1:1" H 7122 3450 60  0000 R CNN
 F 1 "D" V 7400 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 3500 60  0001 C CNN
 F 3 "" H 7250 3500 60  0000 C CNN
 	1    7250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:3
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:3
 U 1 1 5CBC12B6
 P 9050 3350
 F 0 "K1:3" H 9050 3350 60  0000 C CNN
 F 1 "KEYSW" H 9050 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9050 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9050 3350 60  0001 C CNN
 F 3 "" H 9050 3350 60  0000 C CNN
 	1    9050 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:3
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:3
 U 1 1 5CBC12BC
 P 8750 3500
 F 0 "D1:3" H 8622 3450 60  0000 R CNN
 F 1 "D" V 8900 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8750 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8750 3500 60  0001 C CNN
 F 3 "" H 8750 3500 60  0000 C CNN
 	1    8750 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:4
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:4
 U 1 1 5CBC12C2
 P 9800 3350
 F 0 "K1:4" H 9800 3350 60  0000 C CNN
 F 1 "KEYSW" H 9800 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9800 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9800 3350 60  0001 C CNN
 F 3 "" H 9800 3350 60  0000 C CNN
 	1    9800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:4
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:4
 U 1 1 5CBC12C8
 P 9500 3500
 F 0 "D1:4" H 9372 3450 60  0000 R CNN
 F 1 "D" V 9650 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9500 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 9500 3500 60  0001 C CNN
 F 3 "" H 9500 3500 60  0000 C CNN
 	1    9500 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:2
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:2
 U 1 1 5CBC12CE
 P 8300 3350
 F 0 "K1:2" H 8300 3350 60  0000 C CNN
 F 1 "KEYSW" H 8300 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 8300 3350 60  0001 C CNN
 F 3 "" H 8300 3350 60  0000 C CNN
 	1    8300 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:2
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:2
 U 1 1 5CBC12D4
 P 8000 3500
 F 0 "D1:2" H 7872 3450 60  0000 R CNN
 F 1 "D" V 8150 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8000 3500 60  0001 C CNN
 F 3 "" H 8000 3500 60  0000 C CNN
 	1    8000 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:5
 U 1 1 5CBC12DA
 P 10550 3350
 F 0 "K1:5" H 10550 3350 60  0000 C CNN
 F 1 "KEYSW" H 10550 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 10550 3350 60  0001 C CNN
 F 3 "" H 10550 3350 60  0000 C CNN
 	1    10550 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:5
 U 1 1 5CBC12E0
 P 10250 3500
 F 0 "D1:5" H 10122 3450 60  0000 R CNN
 F 1 "D" V 10400 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 3500 60  0001 C CNN
 F 3 "" H 10250 3500 60  0000 C CNN
 	1    10250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:6
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:6
 U 1 1 5CBC12E6
 P 11300 3350
 F 0 "K1:6" H 11300 3350 60  0000 C CNN
 F 1 "KEYSW" H 11300 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 11300 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 11300 3350 60  0001 C CNN
 F 3 "" H 11300 3350 60  0000 C CNN
 	1    11300 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:6
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:6
 U 1 1 5CBC12EC
 P 11000 3500
 F 0 "D1:6" H 10872 3450 60  0000 R CNN
 F 1 "D" V 11150 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11000 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11000 3500 60  0001 C CNN
 F 3 "" H 11000 3500 60  0000 C CNN
 	1    11000 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:7
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:7
 U 1 1 5CBC12F2
 P 12050 3350
 F 0 "K1:7" H 12050 3350 60  0000 C CNN
 F 1 "KEYSW" H 12050 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12050 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12050 3350 60  0001 C CNN
 F 3 "" H 12050 3350 60  0000 C CNN
 	1    12050 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:7
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:7
 U 1 1 5CBC12F8
 P 11750 3500
 F 0 "D1:7" H 11622 3450 60  0000 R CNN
 F 1 "D" V 11900 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11750 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11750 3500 60  0001 C CNN
 F 3 "" H 11750 3500 60  0000 C CNN
 	1    11750 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:8
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:8
 U 1 1 5CBC12FE
 P 12800 3350
 F 0 "K1:8" H 12800 3350 60  0000 C CNN
 F 1 "KEYSW" H 12800 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12800 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12800 3350 60  0001 C CNN
 F 3 "" H 12800 3350 60  0000 C CNN
 	1    12800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:8
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:8
 U 1 1 5CBC1304
 P 12500 3500
 F 0 "D1:8" H 12372 3450 60  0000 R CNN
 F 1 "D" V 12650 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 12500 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 12500 3500 60  0001 C CNN
 F 3 "" H 12500 3500 60  0000 C CNN
 	1    12500 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:9
 U 1 1 5CBC130A
 P 13550 3350
 F 0 "K1:9" H 13550 3350 60  0000 C CNN
 F 1 "KEYSW" H 13550 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 3350 60  0001 C CNN
 F 3 "" H 13550 3350 60  0000 C CNN
 	1    13550 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:9
 U 1 1 5CBC1310
 P 13250 3500
 F 0 "D1:9" H 13122 3450 60  0000 R CNN
 F 1 "D" V 13400 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 3500 60  0001 C CNN
 F 3 "" H 13250 3500 60  0000 C CNN
 	1    13250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:10
 U 1 1 5CBC1316
 P 14300 3350
 F 0 "K1:10" H 14300 3350 60  0000 C CNN
 F 1 "KEYSW" H 14300 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 3350 60  0001 C CNN
 F 3 "" H 14300 3350 60  0000 C CNN
 	1    14300 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:10
 U 1 1 5CBC131C
 P 14000 3500
 F 0 "D1:10" H 13872 3450 60  0000 R CNN
 F 1 "D" V 14150 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 3500 60  0001 C CNN
 F 3 "" H 14000 3500 60  0000 C CNN
 	1    14000 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:11
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:11
 U 1 1 5CBC1322
 P 15050 3350
 F 0 "K1:11" H 15050 3350 60  0000 C CNN
 F 1 "KEYSW" H 15050 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15050 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15050 3350 60  0001 C CNN
 F 3 "" H 15050 3350 60  0000 C CNN
 	1    15050 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:11
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:11
 U 1 1 5CBC1328
 P 14750 3500
 F 0 "D1:11" H 14622 3450 60  0000 R CNN
 F 1 "D" V 14900 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14750 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14750 3500 60  0001 C CNN
 F 3 "" H 14750 3500 60  0000 C CNN
 	1    14750 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:12
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:12
 U 1 1 5CBC132E
 P 15800 3350
 F 0 "K1:12" H 15800 3350 60  0000 C CNN
 F 1 "KEYSW" H 15800 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15800 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15800 3350 60  0001 C CNN
 F 3 "" H 15800 3350 60  0000 C CNN
 	1    15800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:12
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:12
 U 1 1 5CBC1334
 P 15500 3500
 F 0 "D1:12" H 15372 3450 60  0000 R CNN
 F 1 "D" V 15650 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 15500 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 15500 3500 60  0001 C CNN
 F 3 "" H 15500 3500 60  0000 C CNN
 	1    15500 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:13
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:13
 U 1 1 5CBC133A
 P 16550 3350
 F 0 "K1:13" H 16550 3350 60  0000 C CNN
 F 1 "KEYSW" H 16550 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 16550 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 16550 3350 60  0001 C CNN
 F 3 "" H 16550 3350 60  0000 C CNN
 	1    16550 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:13
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:13
 U 1 1 5CBC1340
 P 16250 3500
 F 0 "D1:13" H 16122 3450 60  0000 R CNN
 F 1 "D" V 16400 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 16250 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 16250 3500 60  0001 C CNN
 F 3 "" H 16250 3500 60  0000 C CNN
 	1    16250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:14
 U 1 1 5CBC1346
 P 17300 3350
 F 0 "K1:14" H 17300 3350 60  0000 C CNN
 F 1 "KEYSW" H 17300 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 3350 60  0001 C CNN
 F 3 "" H 17300 3350 60  0000 C CNN
 	1    17300 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:14
 U 1 1 5CBC134C
 P 17000 3500
 F 0 "D1:14" H 16872 3450 60  0000 R CNN
 F 1 "D" V 17150 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 3500 60  0001 C CNN
 F 3 "" H 17000 3500 60  0000 C CNN
 	1    17000 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:15
 U 1 1 5CBC1352
 P 18050 3350
 F 0 "K1:15" H 18050 3350 60  0000 C CNN
 F 1 "KEYSW" H 18050 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 3350 60  0001 C CNN
 F 3 "" H 18050 3350 60  0000 C CNN
 	1    18050 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:15
 U 1 1 5CBC1358
 P 17750 3500
 F 0 "D1:15" H 17622 3450 60  0000 R CNN
 F 1 "D" V 17900 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 3500 60  0001 C CNN
 F 3 "" H 17750 3500 60  0000 C CNN
 	1    17750 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:16
 U 1 1 5CBC135E
 P 18800 3350
 F 0 "K1:16" H 18800 3350 60  0000 C CNN
 F 1 "KEYSW" H 18800 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 3350 60  0001 C CNN
 F 3 "" H 18800 3350 60  0000 C CNN
 	1    18800 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:16
 U 1 1 5CBC1364
 P 18500 3500
 F 0 "D1:16" H 18372 3450 60  0000 R CNN
 F 1 "D" V 18650 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 3500 60  0001 C CNN
 F 3 "" H 18500 3500 60  0000 C CNN
 	1    18500 3500
 	-1   0    0    1   
@@ -962,353 +962,353 @@ Wire Wire Line
 Wire Wire Line
 	8000 3550 8750 3550
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:0
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:0
 U 1 1 5CBCE260
 P 6800 4250
 F 0 "K3:0" H 6800 4250 60  0000 C CNN
 F 1 "KEYSW" H 6800 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 6800 4250 60  0001 C CNN
 F 3 "" H 6800 4250 60  0000 C CNN
 	1    6800 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:0
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:0
 U 1 1 5CBCE266
 P 6500 4400
 F 0 "D3:0" H 6372 4350 60  0000 R CNN
 F 1 "D" V 6650 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 4400 60  0001 C CNN
 F 3 "" H 6500 4400 60  0000 C CNN
 	1    6500 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:1
 U 1 1 5CBCE26C
 P 7550 4250
 F 0 "K3:1" H 7550 4250 60  0000 C CNN
 F 1 "KEYSW" H 7550 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 4250 60  0001 C CNN
 F 3 "" H 7550 4250 60  0000 C CNN
 	1    7550 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:1
 U 1 1 5CBCE272
 P 7250 4400
 F 0 "D3:1" H 7122 4350 60  0000 R CNN
 F 1 "D" V 7400 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 4400 60  0001 C CNN
 F 3 "" H 7250 4400 60  0000 C CNN
 	1    7250 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:3
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:3
 U 1 1 5CBCE278
 P 9050 4250
 F 0 "K3:3" H 9050 4250 60  0000 C CNN
 F 1 "KEYSW" H 9050 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9050 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9050 4250 60  0001 C CNN
 F 3 "" H 9050 4250 60  0000 C CNN
 	1    9050 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:3
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:3
 U 1 1 5CBCE27E
 P 8750 4400
 F 0 "D3:3" H 8622 4350 60  0000 R CNN
 F 1 "D" V 8900 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8750 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8750 4400 60  0001 C CNN
 F 3 "" H 8750 4400 60  0000 C CNN
 	1    8750 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:4
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:4
 U 1 1 5CBCE284
 P 9800 4250
 F 0 "K3:4" H 9800 4250 60  0000 C CNN
 F 1 "KEYSW" H 9800 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9800 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9800 4250 60  0001 C CNN
 F 3 "" H 9800 4250 60  0000 C CNN
 	1    9800 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:4
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:4
 U 1 1 5CBCE28A
 P 9500 4400
 F 0 "D3:4" H 9372 4350 60  0000 R CNN
 F 1 "D" V 9650 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9500 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 9500 4400 60  0001 C CNN
 F 3 "" H 9500 4400 60  0000 C CNN
 	1    9500 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:2
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:2
 U 1 1 5CBCE290
 P 8300 4250
 F 0 "K3:2" H 8300 4250 60  0000 C CNN
 F 1 "KEYSW" H 8300 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 8300 4250 60  0001 C CNN
 F 3 "" H 8300 4250 60  0000 C CNN
 	1    8300 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:2
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:2
 U 1 1 5CBCE296
 P 8000 4400
 F 0 "D3:2" H 7872 4350 60  0000 R CNN
 F 1 "D" V 8150 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8000 4400 60  0001 C CNN
 F 3 "" H 8000 4400 60  0000 C CNN
 	1    8000 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:5
 U 1 1 5CBCE29C
 P 10550 4250
 F 0 "K3:5" H 10550 4250 60  0000 C CNN
 F 1 "KEYSW" H 10550 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 10550 4250 60  0001 C CNN
 F 3 "" H 10550 4250 60  0000 C CNN
 	1    10550 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:5
 U 1 1 5CBCE2A2
 P 10250 4400
 F 0 "D3:5" H 10122 4350 60  0000 R CNN
 F 1 "D" V 10400 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 4400 60  0001 C CNN
 F 3 "" H 10250 4400 60  0000 C CNN
 	1    10250 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:6
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:6
 U 1 1 5CBCE2A8
 P 11300 4250
 F 0 "K3:6" H 11300 4250 60  0000 C CNN
 F 1 "KEYSW" H 11300 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 11300 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 11300 4250 60  0001 C CNN
 F 3 "" H 11300 4250 60  0000 C CNN
 	1    11300 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:6
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:6
 U 1 1 5CBCE2AE
 P 11000 4400
 F 0 "D3:6" H 10872 4350 60  0000 R CNN
 F 1 "D" V 11150 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11000 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11000 4400 60  0001 C CNN
 F 3 "" H 11000 4400 60  0000 C CNN
 	1    11000 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:7
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:7
 U 1 1 5CBCE2B4
 P 12050 4250
 F 0 "K3:7" H 12050 4250 60  0000 C CNN
 F 1 "KEYSW" H 12050 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12050 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12050 4250 60  0001 C CNN
 F 3 "" H 12050 4250 60  0000 C CNN
 	1    12050 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:7
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:7
 U 1 1 5CBCE2BA
 P 11750 4400
 F 0 "D3:7" H 11622 4350 60  0000 R CNN
 F 1 "D" V 11900 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11750 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11750 4400 60  0001 C CNN
 F 3 "" H 11750 4400 60  0000 C CNN
 	1    11750 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:8
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:8
 U 1 1 5CBCE2C0
 P 12800 4250
 F 0 "K3:8" H 12800 4250 60  0000 C CNN
 F 1 "KEYSW" H 12800 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12800 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12800 4250 60  0001 C CNN
 F 3 "" H 12800 4250 60  0000 C CNN
 	1    12800 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:8
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:8
 U 1 1 5CBCE2C6
 P 12500 4400
 F 0 "D3:8" H 12372 4350 60  0000 R CNN
 F 1 "D" V 12650 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 12500 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 12500 4400 60  0001 C CNN
 F 3 "" H 12500 4400 60  0000 C CNN
 	1    12500 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:9
 U 1 1 5CBCE2CC
 P 13550 4250
 F 0 "K3:9" H 13550 4250 60  0000 C CNN
 F 1 "KEYSW" H 13550 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 4250 60  0001 C CNN
 F 3 "" H 13550 4250 60  0000 C CNN
 	1    13550 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:9
 U 1 1 5CBCE2D2
 P 13250 4400
 F 0 "D3:9" H 13122 4350 60  0000 R CNN
 F 1 "D" V 13400 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 4400 60  0001 C CNN
 F 3 "" H 13250 4400 60  0000 C CNN
 	1    13250 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:10
 U 1 1 5CBCE2D8
 P 14300 4250
 F 0 "K3:10" H 14300 4250 60  0000 C CNN
 F 1 "KEYSW" H 14300 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 4250 60  0001 C CNN
 F 3 "" H 14300 4250 60  0000 C CNN
 	1    14300 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:10
 U 1 1 5CBCE2DE
 P 14000 4400
 F 0 "D3:10" H 13872 4350 60  0000 R CNN
 F 1 "D" V 14150 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 4400 60  0001 C CNN
 F 3 "" H 14000 4400 60  0000 C CNN
 	1    14000 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:11
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:11
 U 1 1 5CBCE2E4
 P 15050 4250
 F 0 "K3:11" H 15050 4250 60  0000 C CNN
 F 1 "KEYSW" H 15050 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15050 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15050 4250 60  0001 C CNN
 F 3 "" H 15050 4250 60  0000 C CNN
 	1    15050 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:11
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:11
 U 1 1 5CBCE2EA
 P 14750 4400
 F 0 "D3:11" H 14622 4350 60  0000 R CNN
 F 1 "D" V 14900 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14750 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14750 4400 60  0001 C CNN
 F 3 "" H 14750 4400 60  0000 C CNN
 	1    14750 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:12
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:12
 U 1 1 5CBCE2F0
 P 15800 4250
 F 0 "K3:12" H 15800 4250 60  0000 C CNN
 F 1 "KEYSW" H 15800 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15800 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 15800 4250 60  0001 C CNN
 F 3 "" H 15800 4250 60  0000 C CNN
 	1    15800 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:12
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:12
 U 1 1 5CBCE2F6
 P 15500 4400
 F 0 "D3:12" H 15372 4350 60  0000 R CNN
 F 1 "D" V 15650 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 15500 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 15500 4400 60  0001 C CNN
 F 3 "" H 15500 4400 60  0000 C CNN
 	1    15500 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:14
 U 1 1 5CBCE308
 P 17300 4250
 F 0 "K3:14" H 17300 4250 60  0000 C CNN
 F 1 "KEYSW" H 17300 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 4250 60  0001 C CNN
 F 3 "" H 17300 4250 60  0000 C CNN
 	1    17300 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:14
 U 1 1 5CBCE30E
 P 17000 4400
 F 0 "D3:14" H 16872 4350 60  0000 R CNN
 F 1 "D" V 17150 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 4400 60  0001 C CNN
 F 3 "" H 17000 4400 60  0000 C CNN
 	1    17000 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:15
 U 1 1 5CBCE314
 P 18050 4250
 F 0 "K3:15" H 18050 4250 60  0000 C CNN
 F 1 "KEYSW" H 18050 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 4250 60  0001 C CNN
 F 3 "" H 18050 4250 60  0000 C CNN
 	1    18050 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:15
 U 1 1 5CBCE31A
 P 17750 4400
 F 0 "D3:15" H 17622 4350 60  0000 R CNN
 F 1 "D" V 17900 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 4400 60  0001 C CNN
 F 3 "" H 17750 4400 60  0000 C CNN
 	1    17750 4400
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K3:16
 U 1 1 5CBCE320
 P 18800 4250
 F 0 "K3:16" H 18800 4250 60  0000 C CNN
 F 1 "KEYSW" H 18800 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 4250 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 4250 60  0001 C CNN
 F 3 "" H 18800 4250 60  0000 C CNN
 	1    18800 4250
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D3:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D3:16
 U 1 1 5CBCE326
 P 18500 4400
 F 0 "D3:16" H 18372 4350 60  0000 R CNN
 F 1 "D" V 18650 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 4400 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 4400 60  0001 C CNN
 F 3 "" H 18500 4400 60  0000 C CNN
 	1    18500 4400
 	-1   0    0    1   
@@ -1353,359 +1353,356 @@ Wire Wire Line
 Connection ~ 17750 4450
 Wire Wire Line
 	17750 4450 18500 4450
-Connection ~ 18500 4450
-Wire Wire Line
-	18500 4450 19250 4450
 Wire Wire Line
 	8000 4450 8750 4450
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:0
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:0
 U 1 1 5CBD73DF
 P 6800 4650
 F 0 "K4:0" H 6800 4650 60  0000 C CNN
 F 1 "KEYSW" H 6800 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 6800 4650 60  0001 C CNN
 F 3 "" H 6800 4650 60  0000 C CNN
 	1    6800 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:0
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:0
 U 1 1 5CBD73E5
 P 6500 4800
 F 0 "D4:0" H 6372 4750 60  0000 R CNN
 F 1 "D" V 6650 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 4800 60  0001 C CNN
 F 3 "" H 6500 4800 60  0000 C CNN
 	1    6500 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:1
 U 1 1 5CBD73EB
 P 7550 4650
 F 0 "K4:1" H 7550 4650 60  0000 C CNN
 F 1 "KEYSW" H 7550 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 4650 60  0001 C CNN
 F 3 "" H 7550 4650 60  0000 C CNN
 	1    7550 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:1
 U 1 1 5CBD73F1
 P 7250 4800
 F 0 "D4:1" H 7122 4750 60  0000 R CNN
 F 1 "D" V 7400 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 4800 60  0001 C CNN
 F 3 "" H 7250 4800 60  0000 C CNN
 	1    7250 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:3
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:3
 U 1 1 5CBD73F7
 P 9050 4650
 F 0 "K4:3" H 9050 4650 60  0000 C CNN
 F 1 "KEYSW" H 9050 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9050 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9050 4650 60  0001 C CNN
 F 3 "" H 9050 4650 60  0000 C CNN
 	1    9050 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:3
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:3
 U 1 1 5CBD73FD
 P 8750 4800
 F 0 "D4:3" H 8622 4750 60  0000 R CNN
 F 1 "D" V 8900 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8750 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8750 4800 60  0001 C CNN
 F 3 "" H 8750 4800 60  0000 C CNN
 	1    8750 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:4
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:4
 U 1 1 5CBD7403
 P 9800 4650
 F 0 "K4:4" H 9800 4650 60  0000 C CNN
 F 1 "KEYSW" H 9800 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9800 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9800 4650 60  0001 C CNN
 F 3 "" H 9800 4650 60  0000 C CNN
 	1    9800 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:4
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:4
 U 1 1 5CBD7409
 P 9500 4800
 F 0 "D4:4" H 9372 4750 60  0000 R CNN
 F 1 "D" V 9650 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9500 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 9500 4800 60  0001 C CNN
 F 3 "" H 9500 4800 60  0000 C CNN
 	1    9500 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:2
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:2
 U 1 1 5CBD740F
 P 8300 4650
 F 0 "K4:2" H 8300 4650 60  0000 C CNN
 F 1 "KEYSW" H 8300 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 8300 4650 60  0001 C CNN
 F 3 "" H 8300 4650 60  0000 C CNN
 	1    8300 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:2
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:2
 U 1 1 5CBD7415
 P 8000 4800
 F 0 "D4:2" H 7872 4750 60  0000 R CNN
 F 1 "D" V 8150 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8000 4800 60  0001 C CNN
 F 3 "" H 8000 4800 60  0000 C CNN
 	1    8000 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:5
 U 1 1 5CBD741B
 P 10550 4650
 F 0 "K4:5" H 10550 4650 60  0000 C CNN
 F 1 "KEYSW" H 10550 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 10550 4650 60  0001 C CNN
 F 3 "" H 10550 4650 60  0000 C CNN
 	1    10550 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:5
 U 1 1 5CBD7421
 P 10250 4800
 F 0 "D4:5" H 10122 4750 60  0000 R CNN
 F 1 "D" V 10400 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 4800 60  0001 C CNN
 F 3 "" H 10250 4800 60  0000 C CNN
 	1    10250 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:6
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:6
 U 1 1 5CBD7427
 P 11300 4650
 F 0 "K4:6" H 11300 4650 60  0000 C CNN
 F 1 "KEYSW" H 11300 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 11300 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 11300 4650 60  0001 C CNN
 F 3 "" H 11300 4650 60  0000 C CNN
 	1    11300 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:6
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:6
 U 1 1 5CBD742D
 P 11000 4800
 F 0 "D4:6" H 10872 4750 60  0000 R CNN
 F 1 "D" V 11150 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11000 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11000 4800 60  0001 C CNN
 F 3 "" H 11000 4800 60  0000 C CNN
 	1    11000 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:7
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:7
 U 1 1 5CBD7433
 P 12050 4650
 F 0 "K4:7" H 12050 4650 60  0000 C CNN
 F 1 "KEYSW" H 12050 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12050 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12050 4650 60  0001 C CNN
 F 3 "" H 12050 4650 60  0000 C CNN
 	1    12050 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:7
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:7
 U 1 1 5CBD7439
 P 11750 4800
 F 0 "D4:7" H 11622 4750 60  0000 R CNN
 F 1 "D" V 11900 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11750 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11750 4800 60  0001 C CNN
 F 3 "" H 11750 4800 60  0000 C CNN
 	1    11750 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:8
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:8
 U 1 1 5CBD743F
 P 12800 4650
 F 0 "K4:8" H 12800 4650 60  0000 C CNN
 F 1 "KEYSW" H 12800 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12800 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12800 4650 60  0001 C CNN
 F 3 "" H 12800 4650 60  0000 C CNN
 	1    12800 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:8
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:8
 U 1 1 5CBD7445
 P 12500 4800
 F 0 "D4:8" H 12372 4750 60  0000 R CNN
 F 1 "D" V 12650 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 12500 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 12500 4800 60  0001 C CNN
 F 3 "" H 12500 4800 60  0000 C CNN
 	1    12500 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:9
 U 1 1 5CBD744B
 P 13550 4650
 F 0 "K4:9" H 13550 4650 60  0000 C CNN
 F 1 "KEYSW" H 13550 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 4650 60  0001 C CNN
 F 3 "" H 13550 4650 60  0000 C CNN
 	1    13550 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:9
 U 1 1 5CBD7451
 P 13250 4800
 F 0 "D4:9" H 13122 4750 60  0000 R CNN
 F 1 "D" V 13400 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 4800 60  0001 C CNN
 F 3 "" H 13250 4800 60  0000 C CNN
 	1    13250 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:10
 U 1 1 5CBD7457
 P 14300 4650
 F 0 "K4:10" H 14300 4650 60  0000 C CNN
 F 1 "KEYSW" H 14300 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 4650 60  0001 C CNN
 F 3 "" H 14300 4650 60  0000 C CNN
 	1    14300 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:10
 U 1 1 5CBD745D
 P 14000 4800
 F 0 "D4:10" H 13872 4750 60  0000 R CNN
 F 1 "D" V 14150 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 4800 60  0001 C CNN
 F 3 "" H 14000 4800 60  0000 C CNN
 	1    14000 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:11
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:11
 U 1 1 5CBD7463
 P 15050 4650
 F 0 "K4:11" H 15050 4650 60  0000 C CNN
 F 1 "KEYSW" H 15050 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15050 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 15050 4650 60  0001 C CNN
 F 3 "" H 15050 4650 60  0000 C CNN
 	1    15050 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:11
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:11
 U 1 1 5CBD7469
 P 14750 4800
 F 0 "D4:11" H 14622 4750 60  0000 R CNN
 F 1 "D" V 14900 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14750 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14750 4800 60  0001 C CNN
 F 3 "" H 14750 4800 60  0000 C CNN
 	1    14750 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:13
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:13
 U 1 1 5CBD747B
 P 16550 4650
 F 0 "K4:13" H 16550 4650 60  0000 C CNN
 F 1 "KEYSW" H 16550 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 16550 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 16550 4650 60  0001 C CNN
 F 3 "" H 16550 4650 60  0000 C CNN
 	1    16550 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:13
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:13
 U 1 1 5CBD7481
 P 16250 4800
 F 0 "D4:13" H 16122 4750 60  0000 R CNN
 F 1 "D" V 16400 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 16250 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 16250 4800 60  0001 C CNN
 F 3 "" H 16250 4800 60  0000 C CNN
 	1    16250 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:14
 U 1 1 5CBD7487
 P 17300 4650
 F 0 "K4:14" H 17300 4650 60  0000 C CNN
 F 1 "KEYSW" H 17300 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 4650 60  0001 C CNN
 F 3 "" H 17300 4650 60  0000 C CNN
 	1    17300 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:14
 U 1 1 5CBD748D
 P 17000 4800
 F 0 "D4:14" H 16872 4750 60  0000 R CNN
 F 1 "D" V 17150 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 4800 60  0001 C CNN
 F 3 "" H 17000 4800 60  0000 C CNN
 	1    17000 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:15
 U 1 1 5CBD7493
 P 18050 4650
 F 0 "K4:15" H 18050 4650 60  0000 C CNN
 F 1 "KEYSW" H 18050 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 4650 60  0001 C CNN
 F 3 "" H 18050 4650 60  0000 C CNN
 	1    18050 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:15
 U 1 1 5CBD7499
 P 17750 4800
 F 0 "D4:15" H 17622 4750 60  0000 R CNN
 F 1 "D" V 17900 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 4800 60  0001 C CNN
 F 3 "" H 17750 4800 60  0000 C CNN
 	1    17750 4800
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:16
 U 1 1 5CBD749F
 P 18800 4650
 F 0 "K4:16" H 18800 4650 60  0000 C CNN
 F 1 "KEYSW" H 18800 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 4650 60  0001 C CNN
 F 3 "" H 18800 4650 60  0000 C CNN
 	1    18800 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:16
 U 1 1 5CBD74A5
 P 18500 4800
 F 0 "D4:16" H 18372 4750 60  0000 R CNN
 F 1 "D" V 18650 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 4800 60  0001 C CNN
 F 3 "" H 18500 4800 60  0000 C CNN
 	1    18500 4800
 	-1   0    0    1   
@@ -1756,253 +1753,228 @@ Wire Wire Line
 Wire Wire Line
 	8000 4850 8750 4850
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:0
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:0
 U 1 1 5CBDF39B
 P 6800 5100
 F 0 "K5:0" H 6800 5100 60  0000 C CNN
 F 1 "KEYSW" H 6800 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 6800 5100 60  0001 C CNN
 F 3 "" H 6800 5100 60  0000 C CNN
 	1    6800 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:0
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:0
 U 1 1 5CBDF3A1
 P 6500 5250
 F 0 "D5:0" H 6372 5200 60  0000 R CNN
 F 1 "D" V 6650 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 5250 60  0001 C CNN
 F 3 "" H 6500 5250 60  0000 C CNN
 	1    6500 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:1
 U 1 1 5CBDF3A7
 P 7550 5100
 F 0 "K5:1" H 7550 5100 60  0000 C CNN
 F 1 "KEYSW" H 7550 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 5100 60  0001 C CNN
 F 3 "" H 7550 5100 60  0000 C CNN
 	1    7550 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:1
 U 1 1 5CBDF3AD
 P 7250 5250
 F 0 "D5:1" H 7122 5200 60  0000 R CNN
 F 1 "D" V 7400 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 5250 60  0001 C CNN
 F 3 "" H 7250 5250 60  0000 C CNN
 	1    7250 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:2
-U 1 1 5CBDF3CB
-P 8300 5100
-F 0 "K5:2" H 8300 5100 60  0000 C CNN
-F 1 "KEYSW" H 8300 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 5100 60  0001 C CNN
-F 3 "" H 8300 5100 60  0000 C CNN
-	1    8300 5100
-	1    0    0    -1  
-$EndComp
-$Comp
-L CBC2-rescue:D-keyboard_parts D5:2
-U 1 1 5CBDF3D1
-P 8000 5250
-F 0 "D5:2" H 7872 5200 60  0000 R CNN
-F 1 "D" V 8150 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 5250 60  0001 C CNN
-F 3 "" H 8000 5250 60  0000 C CNN
-	1    8000 5250
-	-1   0    0    1   
-$EndComp
-$Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:5
 U 1 1 5CBDF3D7
 P 10550 5100
 F 0 "K5:5" H 10550 5100 60  0000 C CNN
 F 1 "KEYSW" H 10550 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_625H" H 10550 5100 60  0001 C CNN
 F 3 "" H 10550 5100 60  0000 C CNN
 	1    10550 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:5
 U 1 1 5CBDF3DD
 P 10250 5250
 F 0 "D5:5" H 10122 5200 60  0000 R CNN
 F 1 "D" V 10400 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 5250 60  0001 C CNN
 F 3 "" H 10250 5250 60  0000 C CNN
 	1    10250 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:9
 U 1 1 5CBDF407
 P 13550 5100
 F 0 "K5:9" H 13550 5100 60  0000 C CNN
 F 1 "KEYSW" H 13550 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 5100 60  0001 C CNN
 F 3 "" H 13550 5100 60  0000 C CNN
 	1    13550 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:9
 U 1 1 5CBDF40D
 P 13250 5250
 F 0 "D5:9" H 13122 5200 60  0000 R CNN
 F 1 "D" V 13400 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 5250 60  0001 C CNN
 F 3 "" H 13250 5250 60  0000 C CNN
 	1    13250 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:10
 U 1 1 5CBDF413
 P 14300 5100
 F 0 "K5:10" H 14300 5100 60  0000 C CNN
 F 1 "KEYSW" H 14300 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 5100 60  0001 C CNN
 F 3 "" H 14300 5100 60  0000 C CNN
 	1    14300 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:10
 U 1 1 5CBDF419
 P 14000 5250
 F 0 "D5:10" H 13872 5200 60  0000 R CNN
 F 1 "D" V 14150 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 5250 60  0001 C CNN
 F 3 "" H 14000 5250 60  0000 C CNN
 	1    14000 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:12
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:12
 U 1 1 5CBDF42B
 P 15800 5100
 F 0 "K5:12" H 15800 5100 60  0000 C CNN
 F 1 "KEYSW" H 15800 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15800 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15800 5100 60  0001 C CNN
 F 3 "" H 15800 5100 60  0000 C CNN
 	1    15800 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:12
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:12
 U 1 1 5CBDF431
 P 15500 5250
 F 0 "D5:12" H 15372 5200 60  0000 R CNN
 F 1 "D" V 15650 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 15500 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 15500 5250 60  0001 C CNN
 F 3 "" H 15500 5250 60  0000 C CNN
 	1    15500 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:13
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:13
 U 1 1 5CBDF437
 P 16550 5100
 F 0 "K5:13" H 16550 5100 60  0000 C CNN
 F 1 "KEYSW" H 16550 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 16550 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 16550 5100 60  0001 C CNN
 F 3 "" H 16550 5100 60  0000 C CNN
 	1    16550 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:13
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:13
 U 1 1 5CBDF43D
 P 16250 5250
 F 0 "D5:13" H 16122 5200 60  0000 R CNN
 F 1 "D" V 16400 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 16250 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 16250 5250 60  0001 C CNN
 F 3 "" H 16250 5250 60  0000 C CNN
 	1    16250 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:14
 U 1 1 5CBDF443
 P 17300 5100
 F 0 "K5:14" H 17300 5100 60  0000 C CNN
 F 1 "KEYSW" H 17300 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 5100 60  0001 C CNN
 F 3 "" H 17300 5100 60  0000 C CNN
 	1    17300 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:14
 U 1 1 5CBDF449
 P 17000 5250
 F 0 "D5:14" H 16872 5200 60  0000 R CNN
 F 1 "D" V 17150 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 5250 60  0001 C CNN
 F 3 "" H 17000 5250 60  0000 C CNN
 	1    17000 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:15
 U 1 1 5CBDF44F
 P 18050 5100
 F 0 "K5:15" H 18050 5100 60  0000 C CNN
 F 1 "KEYSW" H 18050 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 5100 60  0001 C CNN
 F 3 "" H 18050 5100 60  0000 C CNN
 	1    18050 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:15
 U 1 1 5CBDF455
 P 17750 5250
 F 0 "D5:15" H 17622 5200 60  0000 R CNN
 F 1 "D" V 17900 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 5250 60  0001 C CNN
 F 3 "" H 17750 5250 60  0000 C CNN
 	1    17750 5250
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K5:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K5:16
 U 1 1 5CBDF45B
 P 18800 5100
 F 0 "K5:16" H 18800 5100 60  0000 C CNN
 F 1 "KEYSW" H 18800 5000 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 5100 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 5100 60  0001 C CNN
 F 3 "" H 18800 5100 60  0000 C CNN
 	1    18800 5100
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D5:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D5:16
 U 1 1 5CBDF461
 P 18500 5250
 F 0 "D5:16" H 18372 5200 60  0000 R CNN
 F 1 "D" V 18650 5200 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 5250 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 5250 60  0001 C CNN
 F 3 "" H 18500 5250 60  0000 C CNN
 	1    18500 5250
 	-1   0    0    1   
 $EndComp
 Wire Wire Line
 	6500 5300 7250 5300
-Wire Wire Line
-	7250 5300 8000 5300
 Connection ~ 7250 5300
-Connection ~ 8000 5300
 Connection ~ 10250 5300
 Connection ~ 13250 5300
 Wire Wire Line
@@ -2044,9 +2016,6 @@ Connection ~ 8600 2950
 Connection ~ 8600 3350
 Wire Wire Line
 	8600 4250 8600 4650
-Connection ~ 8600 4650
-Wire Wire Line
-	8600 4650 8600 5100
 Wire Wire Line
 	9350 2700 9350 2950
 Connection ~ 9350 2950
@@ -2149,70 +2118,48 @@ Connection ~ 19100 4650
 Wire Wire Line
 	19100 4650 19100 5100
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K1:17
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K1:17
 U 1 1 5CD012A5
 P 19550 3350
 F 0 "K1:17" H 19550 3350 60  0000 C CNN
 F 1 "KEYSW" H 19550 3250 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 19550 3350 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 19550 3350 60  0001 C CNN
 F 3 "" H 19550 3350 60  0000 C CNN
 	1    19550 3350
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D1:17
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D1:17
 U 1 1 5CD012AB
 P 19250 3500
 F 0 "D1:17" H 19122 3450 60  0000 R CNN
 F 1 "D" V 19400 3450 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 19250 3500 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 19250 3500 60  0001 C CNN
 F 3 "" H 19250 3500 60  0000 C CNN
 	1    19250 3500
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K4:17
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K4:17
 U 1 1 5CD012CC
 P 19550 4650
 F 0 "K4:17" H 19550 4650 60  0000 C CNN
 F 1 "KEYSW" H 19550 4550 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 19550 4650 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 19550 4650 60  0001 C CNN
 F 3 "" H 19550 4650 60  0000 C CNN
 	1    19550 4650
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D4:17
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D4:17
 U 1 1 5CD012D2
 P 19250 4800
 F 0 "D4:17" H 19122 4750 60  0000 R CNN
 F 1 "D" V 19400 4750 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 19250 4800 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 19250 4800 60  0001 C CNN
 F 3 "" H 19250 4800 60  0000 C CNN
 	1    19250 4800
 	-1   0    0    1   
-$EndComp
-$Comp
-L CBC2-rescue:D-keyboard_parts D3:17
-U 1 1 5CD012C5
-P 19250 4400
-F 0 "D3:17" H 19122 4350 60  0000 R CNN
-F 1 "D" V 19400 4350 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 19250 4400 60  0001 C CNN
-F 3 "" H 19250 4400 60  0000 C CNN
-	1    19250 4400
-	-1   0    0    1   
-$EndComp
-$Comp
-L CBC2-rescue:KEYSW-keyboard_parts K3:17
-U 1 1 5CD012BF
-P 19550 4250
-F 0 "K3:17" H 19550 4250 60  0000 C CNN
-F 1 "KEYSW" H 19550 4150 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 19550 4250 60  0001 C CNN
-F 3 "" H 19550 4250 60  0000 C CNN
-	1    19550 4250
-	1    0    0    -1  
 $EndComp
 Connection ~ 19100 4250
 Connection ~ 18350 4250
@@ -2307,23 +2254,23 @@ Wire Wire Line
 Wire Wire Line
 	7850 2950 7850 3350
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:17
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:17
 U 1 1 5CD012B8
 P 19250 3950
 F 0 "D2:17" H 19122 3900 60  0000 R CNN
 F 1 "D" V 19400 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 19250 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 19250 3950 60  0001 C CNN
 F 3 "" H 19250 3950 60  0000 C CNN
 	1    19250 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:17
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:17
 U 1 1 5CD012B2
 P 19550 3800
 F 0 "K2:17" H 19550 3800 60  0000 C CNN
 F 1 "KEYSW" H 19550 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 19550 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_200H-dual-LED" H 19550 3800 60  0001 C CNN
 F 3 "" H 19550 3800 60  0000 C CNN
 	1    19550 3800
 	1    0    0    -1  
@@ -2402,331 +2349,331 @@ Connection ~ 8600 3800
 Wire Wire Line
 	8600 3350 8600 3800
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:16
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:16
 U 1 1 5CBC51AE
 P 18500 3950
 F 0 "D2:16" H 18372 3900 60  0000 R CNN
 F 1 "D" V 18650 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 18500 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 18500 3950 60  0001 C CNN
 F 3 "" H 18500 3950 60  0000 C CNN
 	1    18500 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:16
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:16
 U 1 1 5CBC51A8
 P 18800 3800
 F 0 "K2:16" H 18800 3800 60  0000 C CNN
 F 1 "KEYSW" H 18800 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18800 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18800 3800 60  0001 C CNN
 F 3 "" H 18800 3800 60  0000 C CNN
 	1    18800 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:15
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:15
 U 1 1 5CBC51A2
 P 17750 3950
 F 0 "D2:15" H 17622 3900 60  0000 R CNN
 F 1 "D" V 17900 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17750 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17750 3950 60  0001 C CNN
 F 3 "" H 17750 3950 60  0000 C CNN
 	1    17750 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:15
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:15
 U 1 1 5CBC519C
 P 18050 3800
 F 0 "K2:15" H 18050 3800 60  0000 C CNN
 F 1 "KEYSW" H 18050 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 18050 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 18050 3800 60  0001 C CNN
 F 3 "" H 18050 3800 60  0000 C CNN
 	1    18050 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:14
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:14
 U 1 1 5CBC5196
 P 17000 3950
 F 0 "D2:14" H 16872 3900 60  0000 R CNN
 F 1 "D" V 17150 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 17000 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 17000 3950 60  0001 C CNN
 F 3 "" H 17000 3950 60  0000 C CNN
 	1    17000 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:14
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:14
 U 1 1 5CBC5190
 P 17300 3800
 F 0 "K2:14" H 17300 3800 60  0000 C CNN
 F 1 "KEYSW" H 17300 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 17300 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 17300 3800 60  0001 C CNN
 F 3 "" H 17300 3800 60  0000 C CNN
 	1    17300 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:13
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:13
 U 1 1 5CBC518A
 P 16250 3950
 F 0 "D2:13" H 16122 3900 60  0000 R CNN
 F 1 "D" V 16400 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 16250 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 16250 3950 60  0001 C CNN
 F 3 "" H 16250 3950 60  0000 C CNN
 	1    16250 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:13
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:13
 U 1 1 5CBC5184
 P 16550 3800
 F 0 "K2:13" H 16550 3800 60  0000 C CNN
 F 1 "KEYSW" H 16550 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 16550 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 16550 3800 60  0001 C CNN
 F 3 "" H 16550 3800 60  0000 C CNN
 	1    16550 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:12
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:12
 U 1 1 5CBC517E
 P 15500 3950
 F 0 "D2:12" H 15372 3900 60  0000 R CNN
 F 1 "D" V 15650 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 15500 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 15500 3950 60  0001 C CNN
 F 3 "" H 15500 3950 60  0000 C CNN
 	1    15500 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:12
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:12
 U 1 1 5CBC5178
 P 15800 3800
 F 0 "K2:12" H 15800 3800 60  0000 C CNN
 F 1 "KEYSW" H 15800 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15800 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15800 3800 60  0001 C CNN
 F 3 "" H 15800 3800 60  0000 C CNN
 	1    15800 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:11
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:11
 U 1 1 5CBC5172
 P 14750 3950
 F 0 "D2:11" H 14622 3900 60  0000 R CNN
 F 1 "D" V 14900 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14750 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14750 3950 60  0001 C CNN
 F 3 "" H 14750 3950 60  0000 C CNN
 	1    14750 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:11
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:11
 U 1 1 5CBC516C
 P 15050 3800
 F 0 "K2:11" H 15050 3800 60  0000 C CNN
 F 1 "KEYSW" H 15050 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 15050 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 15050 3800 60  0001 C CNN
 F 3 "" H 15050 3800 60  0000 C CNN
 	1    15050 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:10
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:10
 U 1 1 5CBC5166
 P 14000 3950
 F 0 "D2:10" H 13872 3900 60  0000 R CNN
 F 1 "D" V 14150 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 14000 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 14000 3950 60  0001 C CNN
 F 3 "" H 14000 3950 60  0000 C CNN
 	1    14000 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:10
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:10
 U 1 1 5CBC5160
 P 14300 3800
 F 0 "K2:10" H 14300 3800 60  0000 C CNN
 F 1 "KEYSW" H 14300 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 14300 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 14300 3800 60  0001 C CNN
 F 3 "" H 14300 3800 60  0000 C CNN
 	1    14300 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:9
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:9
 U 1 1 5CBC515A
 P 13250 3950
 F 0 "D2:9" H 13122 3900 60  0000 R CNN
 F 1 "D" V 13400 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 13250 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 13250 3950 60  0001 C CNN
 F 3 "" H 13250 3950 60  0000 C CNN
 	1    13250 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:9
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:9
 U 1 1 5CBC5154
 P 13550 3800
 F 0 "K2:9" H 13550 3800 60  0000 C CNN
 F 1 "KEYSW" H 13550 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 13550 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 13550 3800 60  0001 C CNN
 F 3 "" H 13550 3800 60  0000 C CNN
 	1    13550 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:8
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:8
 U 1 1 5CBC514E
 P 12500 3950
 F 0 "D2:8" H 12372 3900 60  0000 R CNN
 F 1 "D" V 12650 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 12500 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 12500 3950 60  0001 C CNN
 F 3 "" H 12500 3950 60  0000 C CNN
 	1    12500 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:8
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:8
 U 1 1 5CBC5148
 P 12800 3800
 F 0 "K2:8" H 12800 3800 60  0000 C CNN
 F 1 "KEYSW" H 12800 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12800 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12800 3800 60  0001 C CNN
 F 3 "" H 12800 3800 60  0000 C CNN
 	1    12800 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:7
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:7
 U 1 1 5CBC5142
 P 11750 3950
 F 0 "D2:7" H 11622 3900 60  0000 R CNN
 F 1 "D" V 11900 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11750 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11750 3950 60  0001 C CNN
 F 3 "" H 11750 3950 60  0000 C CNN
 	1    11750 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:7
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:7
 U 1 1 5CBC513C
 P 12050 3800
 F 0 "K2:7" H 12050 3800 60  0000 C CNN
 F 1 "KEYSW" H 12050 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 12050 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 12050 3800 60  0001 C CNN
 F 3 "" H 12050 3800 60  0000 C CNN
 	1    12050 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:6
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:6
 U 1 1 5CBC5136
 P 11000 3950
 F 0 "D2:6" H 10872 3900 60  0000 R CNN
 F 1 "D" V 11150 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 11000 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 11000 3950 60  0001 C CNN
 F 3 "" H 11000 3950 60  0000 C CNN
 	1    11000 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:6
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:6
 U 1 1 5CBC5130
 P 11300 3800
 F 0 "K2:6" H 11300 3800 60  0000 C CNN
 F 1 "KEYSW" H 11300 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 11300 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 11300 3800 60  0001 C CNN
 F 3 "" H 11300 3800 60  0000 C CNN
 	1    11300 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:5
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:5
 U 1 1 5CBC512A
 P 10250 3950
 F 0 "D2:5" H 10122 3900 60  0000 R CNN
 F 1 "D" V 10400 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 10250 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 10250 3950 60  0001 C CNN
 F 3 "" H 10250 3950 60  0000 C CNN
 	1    10250 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:5
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:5
 U 1 1 5CBC5124
 P 10550 3800
 F 0 "K2:5" H 10550 3800 60  0000 C CNN
 F 1 "KEYSW" H 10550 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 10550 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 10550 3800 60  0001 C CNN
 F 3 "" H 10550 3800 60  0000 C CNN
 	1    10550 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:2
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:2
 U 1 1 5CBC511E
 P 8000 3950
 F 0 "D2:2" H 7872 3900 60  0000 R CNN
 F 1 "D" V 8150 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8000 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8000 3950 60  0001 C CNN
 F 3 "" H 8000 3950 60  0000 C CNN
 	1    8000 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:2
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:2
 U 1 1 5CBC5118
 P 8300 3800
 F 0 "K2:2" H 8300 3800 60  0000 C CNN
 F 1 "KEYSW" H 8300 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 8300 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 8300 3800 60  0001 C CNN
 F 3 "" H 8300 3800 60  0000 C CNN
 	1    8300 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:4
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:4
 U 1 1 5CBC5112
 P 9500 3950
 F 0 "D2:4" H 9372 3900 60  0000 R CNN
 F 1 "D" V 9650 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 9500 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 9500 3950 60  0001 C CNN
 F 3 "" H 9500 3950 60  0000 C CNN
 	1    9500 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:4
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:4
 U 1 1 5CBC510C
 P 9800 3800
 F 0 "K2:4" H 9800 3800 60  0000 C CNN
 F 1 "KEYSW" H 9800 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9800 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9800 3800 60  0001 C CNN
 F 3 "" H 9800 3800 60  0000 C CNN
 	1    9800 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:3
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:3
 U 1 1 5CBC5106
 P 8750 3950
 F 0 "D2:3" H 8622 3900 60  0000 R CNN
 F 1 "D" V 8900 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 8750 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 8750 3950 60  0001 C CNN
 F 3 "" H 8750 3950 60  0000 C CNN
 	1    8750 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:3
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:3
 U 1 1 5CBC5100
 P 9050 3800
 F 0 "K2:3" H 9050 3800 60  0000 C CNN
 F 1 "KEYSW" H 9050 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 9050 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 9050 3800 60  0001 C CNN
 F 3 "" H 9050 3800 60  0000 C CNN
 	1    9050 3800
 	1    0    0    -1  
@@ -2750,45 +2697,45 @@ Connection ~ 7100 3800
 Wire Wire Line
 	7100 3350 7100 3800
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:1
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:1
 U 1 1 5CBC50FA
 P 7250 3950
 F 0 "D2:1" H 7122 3900 60  0000 R CNN
 F 1 "D" V 7400 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 7250 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 7250 3950 60  0001 C CNN
 F 3 "" H 7250 3950 60  0000 C CNN
 	1    7250 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:1
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:1
 U 1 1 5CBC50F4
 P 7550 3800
 F 0 "K2:1" H 7550 3800 60  0000 C CNN
 F 1 "KEYSW" H 7550 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 7550 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 7550 3800 60  0001 C CNN
 F 3 "" H 7550 3800 60  0000 C CNN
 	1    7550 3800
 	1    0    0    -1  
 $EndComp
 $Comp
-L CBC2-rescue:D-keyboard_parts D2:0
+L CBC2-rescue:D-keyboard_parts-CBC2-rescue D2:0
 U 1 1 5CBC50EE
 P 6500 3950
 F 0 "D2:0" H 6372 3900 60  0000 R CNN
 F 1 "D" V 6650 3900 60  0001 C CNN
-F 2 "keyboard_parts:D_SOD123_axial" H 6500 3950 60  0001 C CNN
+F 2 "Keebio-Parts:Diode-dual" H 6500 3950 60  0001 C CNN
 F 3 "" H 6500 3950 60  0000 C CNN
 	1    6500 3950
 	-1   0    0    1   
 $EndComp
 $Comp
-L CBC2-rescue:KEYSW-keyboard_parts K2:0
+L CBC2-rescue:KEYSW-keyboard_parts-CBC2-rescue K2:0
 U 1 1 5CBC50E8
 P 6800 3800
 F 0 "K2:0" H 6800 3800 60  0000 C CNN
 F 1 "KEYSW" H 6800 3700 60  0001 C CNN
-F 2 "keebs:Mx_Alps_100" H 6800 3800 60  0001 C CNN
+F 2 "Keebio-Parts:Hybrid_PCB_100H_Dual_hole-LED" H 6800 3800 60  0001 C CNN
 F 3 "" H 6800 3800 60  0000 C CNN
 	1    6800 3800
 	1    0    0    -1  
@@ -2802,16 +2749,9 @@ Wire Wire Line
 	19850 3350 19850 3800
 Connection ~ 19850 3800
 Wire Wire Line
-	19850 3800 19850 4250
-Connection ~ 19850 4250
-Wire Wire Line
-	19850 4250 19850 4650
-Wire Wire Line
 	19450 2650 19450 2950
 Wire Wire Line
 	19250 2950 19250 2650
-Wire Wire Line
-	8000 5300 10250 5300
 Wire Wire Line
 	10250 5300 13250 5300
 Wire Wire Line
@@ -2894,7 +2834,7 @@ Connection ~ 19850 2950
 Text Label 19850 2700 1    50   ~ 0
 col17
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0104
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0104
 U 1 1 5D09CE0D
 P 4250 4800
 F 0 "#PWR0104" H 4250 4850 20  0001 C CNN
@@ -2905,7 +2845,7 @@ F 3 "" H 4250 4800 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0105
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0105
 U 1 1 5D0A1009
 P 2450 2800
 F 0 "#PWR0105" H 2450 2850 20  0001 C CNN
@@ -2916,7 +2856,7 @@ F 3 "" H 2450 2800 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0106
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0106
 U 1 1 5D0A271E
 P 2450 4900
 F 0 "#PWR0106" H 2450 4950 20  0001 C CNN
@@ -2927,7 +2867,7 @@ F 3 "" H 2450 4900 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts #PWR0107
+L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0107
 U 1 1 5D0A3A4B
 P 3950 4650
 F 0 "#PWR0107" H 3950 4700 20  0001 C CNN
@@ -3033,7 +2973,7 @@ U 1 1 5CAEB673
 P 2000 5000
 F 0 "SW1" H 2000 5150 50  0000 C CNN
 F 1 "SW_Push" H 2000 4950 50  0000 C CNN
-F 2 "Button_Switch_THT:Push_E-Switch_KS01Q01" H 2000 5200 50  0001 C CNN
+F 2 "Keebio-Parts:SW_Tactile_SPST_Angled_MJTP1117" H 2000 5200 50  0001 C CNN
 F 3 "~" H 2000 5200 50  0001 C CNN
 	1    2000 5000
 	-1   0    0    1   
@@ -3284,4 +3224,15 @@ NoConn ~ 3850 3200
 NoConn ~ 3850 3100
 NoConn ~ 3850 3000
 NoConn ~ 3850 2900
+Wire Wire Line
+	7250 5300 10250 5300
+Wire Wire Line
+	19850 3800 19850 4650
+Wire Wire Line
+	19400 1650 19450 1650
+Wire Wire Line
+	19250 1650 19250 1750
+Wire Wire Line
+	19450 1650 19450 1750
+Connection ~ 19450 1650
 $EndSCHEMATC
