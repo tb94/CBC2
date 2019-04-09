@@ -455,7 +455,7 @@ F 3 "~" H 19600 1650 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0101
+L power:GND #PWR0101
 U 1 1 5CB6F7E9
 P 19750 1650
 F 0 "#PWR0101" H 19750 1700 20  0001 C CNN
@@ -466,7 +466,7 @@ F 3 "" H 19750 1650 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0102
+L power:GND #PWR0102
 U 1 1 5CB6FBB8
 P 18950 1650
 F 0 "#PWR0102" H 18950 1700 20  0001 C CNN
@@ -477,7 +477,7 @@ F 3 "" H 18950 1650 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0103
+L power:GND #PWR0103
 U 1 1 5CB7113D
 P 19350 2050
 F 0 "#PWR0103" H 19350 2100 20  0001 C CNN
@@ -2834,7 +2834,7 @@ Connection ~ 19850 2950
 Text Label 19850 2700 1    50   ~ 0
 col17
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0104
+L power:GND #PWR0104
 U 1 1 5D09CE0D
 P 4250 4800
 F 0 "#PWR0104" H 4250 4850 20  0001 C CNN
@@ -2845,18 +2845,7 @@ F 3 "" H 4250 4800 60  0000 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0105
-U 1 1 5D0A1009
-P 2450 2800
-F 0 "#PWR0105" H 2450 2850 20  0001 C CNN
-F 1 "GND" V 2450 2600 30  0000 L CNN
-F 2 "" H 2450 2800 60  0000 C CNN
-F 3 "" H 2450 2800 60  0000 C CNN
-	1    2450 2800
-	0    1    1    0   
-$EndComp
-$Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0106
+L power:GND #PWR0106
 U 1 1 5D0A271E
 P 2450 4900
 F 0 "#PWR0106" H 2450 4950 20  0001 C CNN
@@ -2867,7 +2856,7 @@ F 3 "" H 2450 4900 60  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L CBC2-rescue:GND-keyboard_parts-CBC2-rescue #PWR0107
+L power:GND #PWR0107
 U 1 1 5D0A3A4B
 P 3950 4650
 F 0 "#PWR0107" H 3950 4700 20  0001 C CNN
@@ -3175,17 +3164,6 @@ F 3 "" H 5700 7250 50  0001 C CNN
 	1    5700 7250
 	0    -1   -1   0   
 $EndComp
-$Comp
-L teensy:Teensy++2.0 U1
-U 1 1 5CB69812
-P 3150 3950
-F 0 "U1" H 3150 5387 60  0000 C CNN
-F 1 "Teensy++2.0" H 3150 5281 60  0000 C CNN
-F 2 "teensy:Teensy2.0++" H 3250 3100 60  0001 C CNN
-F 3 "" H 3250 3100 60  0000 C CNN
-	1    3150 3950
-	1    0    0    -1  
-$EndComp
 Text Label 3850 5300 0    50   ~ 0
 col12
 Text Label 3850 5200 0    50   ~ 0
@@ -3235,4 +3213,26 @@ Wire Wire Line
 Wire Wire Line
 	19450 1650 19450 1750
 Connection ~ 19450 1650
+$Comp
+L teensy:Teensy++2.0 U1
+U 1 1 5CB69812
+P 3150 3950
+F 0 "U1" H 3150 5387 60  0000 C CNN
+F 1 "Teensy++2.0" H 3150 5281 60  0000 C CNN
+F 2 "teensy:Teensy2.0++" H 3250 3100 60  0001 C CNN
+F 3 "" H 3250 3100 60  0000 C CNN
+	1    3150 3950
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5CB1E288
+P 2450 2800
+F 0 "#PWR0105" H 2450 2550 50  0001 C CNN
+F 1 "GND" V 2455 2672 50  0000 R CNN
+F 2 "" H 2450 2800 50  0001 C CNN
+F 3 "" H 2450 2800 50  0001 C CNN
+	1    2450 2800
+	0    1    1    0   
+$EndComp
 $EndSCHEMATC

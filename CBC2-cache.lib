@@ -16,20 +16,6 @@ X ~ 2 0 -150 50 U 60 60 1 1 P
 ENDDRAW
 ENDDEF
 #
-# CBC2-rescue_GND-keyboard_parts-CBC2-rescue
-#
-DEF CBC2-rescue_GND-keyboard_parts-CBC2-rescue #PWR 0 0 Y Y 1 F P
-F0 "#PWR" 0 50 20 H I C CNN
-F1 "CBC2-rescue_GND-keyboard_parts-CBC2-rescue" 0 -100 30 H V C CNN
-F2 "" 0 0 60 H V C CNN
-F3 "" 0 0 60 H V C CNN
-DRAW
-P 4 0 1 0 0 -65 25 -40 -25 -40 0 -65 N
-P 3 1 1 0 0 0 0 -40 0 -40 N
-X +5V 1 0 0 0 U 10 20 0 0 W N
-ENDDRAW
-ENDDEF
-#
 # CBC2-rescue_KEYSW-keyboard_parts-CBC2-rescue
 #
 DEF ~CBC2-rescue_KEYSW-keyboard_parts-CBC2-rescue K? 0 40 Y Y 1 F N
